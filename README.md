@@ -9,7 +9,7 @@ This is a token contract for metacrafter. The contract owner should be able to m
 
 ### Installing
 ```
-git clone https://github.com/devabiodun/token.git
+git clone https://github.com/ifeawoyemi/token.git
 ```
 
 ### Executing program
@@ -27,9 +27,9 @@ npx hardhat deploy
 ```
 
 ## Authors
-ex. [@Abiodun](https://twitter.com/_abiodunAwoyemi)
+ex. [@codeAngel](https://twitter.com/codeAngel_)
 
 ## License
 
-This project is licensed under the [ABIODUN] License - see the LICENSE.md file for details
+This project is licensed under the [IFEOLUWA] License - see the LICENSE.md file for details
 
